@@ -10,6 +10,7 @@
   var IMGS = {
     'Bolo de Café': 'assets/images/galeria-fatia.jpg',
     'Bolo de Cenoura': 'assets/images/galeria-milho.jpg',
+    'Bolo de Milho': 'assets/images/galeria-milho.jpg',
     'Encomendas especiais': 'assets/images/galeria-embalagem.jpg'
   };
   var fineHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
