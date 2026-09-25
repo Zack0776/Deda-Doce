@@ -8,8 +8,8 @@
 
   /* fotos do MODAL diferentes das usadas no card/hero, para dar sensação de vários ângulos */
   var IMGS = {
-    'Bolo de Chocolate': 'assets/images/galeria-fatia.jpg',
-    'Bolo de Milho': 'assets/images/galeria-milho.jpg',
+    'Bolo de Café': 'assets/images/galeria-fatia.jpg',
+    'Bolo de Cenoura': 'assets/images/galeria-milho.jpg',
     'Encomendas especiais': 'assets/images/galeria-embalagem.jpg'
   };
   var fineHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
